@@ -7,13 +7,13 @@ SQL &amp; Tableau applied in a Data Science Bootcamp
 ## Summary
 This project focuses on analyzing and visualizing data from Magist, specifically targeting tech products. The main objectives are to evaluate customer satisfaction, delivery times, and revenue trends. By analyzing this data, i aim to provide insights on customer experience and optimize business strategies
 
-## Languages and Libraries Used
+## Languages and Tools Used
 - **SQL**: For querying and extracting relevant data from the dataset.
 - **Tableau**: Used for creating detailed and interactive visualizations to present the findings.
 
 ## Key Learnings
 - **Data Analysis and Visualization**: Improved skills in extracting  and analyzing large datasets. Gained experience  in using Tableau for creating informative and interactive visualizations.
-- **Customer Insights**: Learned how to interpret customer reviews and satisfaction scores to derive actionable business insights.
+- **Customer Insights**: Learned how to interpret customer reviews and satisfaction scores to derive business insights.
 - **Delivery Performance Analysis**: Developed methods to evaluate and visualize delivery times, identifying patterns and areas for improvement.
 - **Communication Skills**: Practiced explaining technical findings to non-technical stakeholders through clear and concise visualizations and summaries.
 
